@@ -8,7 +8,7 @@
 <p align="center">
   🎓 B.Tech AI & Data Science Student <br>
   📊 Aspiring Data Scientist <br>
-  🇩🇪 Preparing for MS in Germany
+ 
 </p>
 
 ---
