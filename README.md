@@ -51,7 +51,6 @@ class Gaurav:
 - Data Analysis with Pandas
 - Machine Learning Fundamentals
 
----
 
 ---
 
