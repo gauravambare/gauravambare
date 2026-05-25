@@ -53,9 +53,6 @@ class Gaurav:
 
 ---
 
-
-*(More projects coming soon...)*
-
 ---
 
 
