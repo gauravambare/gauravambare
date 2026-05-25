@@ -1,77 +1,89 @@
-<h1 align="center">Hi 👋, I'm Gaurav Ambare</h1>
 
-<h3 align="center">AI & Data Science Student • Data Science Enthusiast • Future ML Engineer</h3>
+<h1 align="center">Gaurav Ambare</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Python+Developer;Data+Science+Learner;Machine+Learning+Enthusiast;Future+MS+Student+in+Germany" />
+  <b>Artificial Intelligence & Data Science Student</b><br>
+  Building skills in Data Science, Python, SQL and Machine Learning
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Python+Developer;Data+Science+Enthusiast;Future+Machine+Learning+Engineer;Learning+and+Building+Every+Day" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
 ```python
-class Gaurav:
-    education = "B.Tech AI & Data Science"
-    interests = ["Data Science", "Machine Learning", "Python"]
-    currently_learning = ["Python", "SQL", "NumPy", "Pandas"]
-    goal = "MS in Germany 🇩🇪"
+gaurav = {
+    "education": "B.Tech AI & Data Science",
+    "location": "India 🇮🇳",
+    "learning": ["Python", "SQL", "NumPy", "Pandas"],
+    "interests": ["Data Science", "Machine Learning", "Analytics"],
+    "goal": "MS in Germany 🇩🇪"
+}
 ```
 
 ---
 
-### 💻 Tech Stack
+## ⚡ Tech Stack
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,github,vscode" />
 </p>
 
-### 📚 Data Science Stack
-
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gauravambare&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravambare&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravambare&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravambare&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gauravambare&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gauravambare&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-### 🌱 Currently Learning
+## 🎯 Current Focus
 
-- Python for Data Science
-- SQL
-- NumPy
-- Pandas
+- Data Science Fundamentals
+- Python Development
+- SQL & Databases
+- Data Analysis with Pandas
 - Machine Learning Fundamentals
 
 ---
 
-### 🎯 Focus Areas
+## 📌 Featured Repositories
 
-- Data Analytics
-- Data Science
-- Machine Learning
-- Artificial Intelligence
+🔹 Python Basics
+
+🔹 Data Science Journey
+
+🔹 NumPy Practice
+
+🔹 Pandas Practice
+
+*(More projects coming soon...)*
 
 ---
 
 <p align="center">
-⭐ Learning • Building • Improving Every Day ⭐
+  <i>"Consistency beats intensity."</i>
+</p>
+
+<p align="center">
+⭐ Learning • Building • Improving • Growing ⭐
 </p>
