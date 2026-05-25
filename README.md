@@ -17,14 +17,11 @@
 ```python
 gaurav = {
     "education": "B.Tech AI & Data Science",
-    "location": "India 🇮🇳",
     "learning": ["Python", "SQL", "NumPy", "Pandas"],
     "interests": ["Data Science", "Machine Learning", "Analytics"],
     "goal": "MS in Germany 🇩🇪"
 }
 ```
-
----
 
 ## ⚡ Tech Stack
 
@@ -35,15 +32,6 @@ gaurav = {
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravambare&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravambare&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
