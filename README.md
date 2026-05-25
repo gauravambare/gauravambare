@@ -7,9 +7,6 @@
 </p>
 
 
-
----
-
 ## 🚀 About Me
 
 🎓 B.Tech in Artificial Intelligence & Data Science
