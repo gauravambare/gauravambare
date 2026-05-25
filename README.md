@@ -1,66 +1,77 @@
-
 <h1 align="center">Hi 👋, I'm Gaurav Ambare</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;Future+Data+Scientist;Learning+Something+New+Every+Day" />
-</p>
+<h3 align="center">AI & Data Science Student • Data Science Enthusiast • Future ML Engineer</h3>
 
 <p align="center">
-  🎓 B.Tech AI & Data Science Student <br>
-  📊 Aspiring Data Scientist <br>
- 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Python+Developer;Data+Science+Learner;Machine+Learning+Enthusiast;Future+MS+Student+in+Germany" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science
-- 🐍 Learning Python, SQL, Pandas & NumPy
-- 📊 Interested in Data Analytics & Data Science
-- 💡 Building projects and improving problem-solving skills
-- 💪 Gym Enthusiast
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+```python
+class Gaurav:
+    education = "B.Tech AI & Data Science"
+    interests = ["Data Science", "Machine Learning", "Python"]
+    currently_learning = ["Python", "SQL", "NumPy", "Pandas"]
+    goal = "MS in Germany 🇩🇪"
+```
 
 ---
 
-## 📈 GitHub Stats
+### 💻 Tech Stack
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravambare&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravambare&layout=compact&theme=tokyonight" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,github,vscode" />
+</p>
+
+### 📚 Data Science Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravambare&theme=tokyonight&row=1&column=6" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gaurav-ambare&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-ambare&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gaurav-ambare&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+### 🌱 Currently Learning
 
 - Python for Data Science
 - SQL
-- Pandas & NumPy
-- Data Analysis
+- NumPy
+- Pandas
 - Machine Learning Fundamentals
 
 ---
 
+### 🎯 Focus Areas
+
+- Data Analytics
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+
+---
+
 <p align="center">
-  ⭐ Building Projects • Learning Daily • Growing Consistently ⭐
+⭐ Learning • Building • Improving Every Day ⭐
 </p>
