@@ -15,12 +15,11 @@
 ## 👨‍💻 About Me
 
 ```python
-gaurav = {
-    "education": "B.Tech AI & Data Science",
-    "learning": ["Python", "SQL", "NumPy", "Pandas"],
-    "interests": ["Data Science", "Machine Learning", "Analytics"],
-    "goal": "MS in Germany 🇩🇪"
-}
+class Gaurav:
+    role = "AI & Data Science Student"
+    learning = ["Python", "SQL", "NumPy", "Pandas"]
+    interests = ["Data Science", "Machine Learning"]
+    goal = "MS in Germany"
 ```
 
 ## ⚡ Tech Stack
