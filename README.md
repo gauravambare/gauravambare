@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Student;Python+Developer;Data+Science+Learner;Future+Data+Scientist;Preparing+for+MS+in+Germany+🇩🇪" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauravambare&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+
 
 ---
 
