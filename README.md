@@ -53,15 +53,6 @@ class Gaurav:
 
 ---
 
-## 📌 Featured Repositories
-
-🔹 Python Basics
-
-🔹 Data Science Journey
-
-🔹 NumPy Practice
-
-🔹 Pandas Practice
 
 *(More projects coming soon...)*
 
